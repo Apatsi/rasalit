@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from rasalit import __version__
 
 base_packages = [
-    "streamlit==0.55.2",
+    "streamlit==0.89.0",
     "pyyaml==5.3.1",
     "pandas==1.0.3",
     "altair==4.1.0",
